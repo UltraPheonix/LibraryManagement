@@ -1,6 +1,4 @@
-//
-// Created by Joseph Campione on 12/2/24.
-//
+
 
 #ifndef LIBRARYMANAGEMENT_LIBRARIAN_H
 #define LIBRARYMANAGEMENT_LIBRARIAN_H

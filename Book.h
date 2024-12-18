@@ -1,7 +1,3 @@
-//
-// Created by Joseph Campione on 11/12/24.
-//
-
 #ifndef LIBRARYMANAGEMENT_BOOK_H
 #define LIBRARYMANAGEMENT_BOOK_H
 

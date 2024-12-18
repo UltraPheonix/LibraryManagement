@@ -1,7 +1,3 @@
-//
-// Created by Joseph Campione on 11/22/24.
-//
-
 #ifndef LIBRARYMANAGEMENT_INVENTORY_H
 #define LIBRARYMANAGEMENT_INVENTORY_H
 

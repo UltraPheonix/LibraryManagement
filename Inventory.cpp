@@ -1,6 +1,4 @@
-//
-// Created by Joseph Campione on 11/22/24.
-//
+
 
 #include "Inventory.h"
 #include "LibraryHash.h"

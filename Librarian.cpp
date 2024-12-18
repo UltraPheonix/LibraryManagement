@@ -1,6 +1,4 @@
-//
-// Created by Joseph Campione on 12/2/24.
-//
+
 
 #include "Librarian.h"
 #include "LibraryHash.h"

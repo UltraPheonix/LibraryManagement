@@ -1,7 +1,3 @@
-//
-// Created by Joseph Campione on 11/22/24.
-//
-
 #ifndef LIBRARYMANAGEMENT_LIBRARYHASH_H
 #define LIBRARYMANAGEMENT_LIBRARYHASH_H
 
